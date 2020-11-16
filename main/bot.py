@@ -52,4 +52,4 @@ async def help(ctx):
 async def ping(ctx):
     await ctx.send(embed= Embed(description= f'Pong, {round(bot.latency * 1000)}ms!', color= 0x3de4ba))
 
-bot.run("YourTokenHere", bot=True, reconnect=True)
+bot.run("NzY4NzgzMDUwMTA3NTE5MDA2.X5FfAg.yLDHqSkaOTORCBeXcoh2lGGSyXQ", bot=True, reconnect=True)
